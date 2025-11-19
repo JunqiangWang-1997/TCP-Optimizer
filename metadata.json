@@ -1,0 +1,5 @@
+{
+  "name": "Ubuntu TCP Optimizer",
+  "description": "A specialized AI tool that generates custom TCP kernel tuning scripts for Ubuntu servers based on your specific hardware and workload requirements.",
+  "requestFramePermissions": []
+}

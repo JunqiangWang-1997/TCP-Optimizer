@@ -1,0 +1,16 @@
+{
+  "name": "ubuntu-tcp-optimizer",
+  "version": "1.0.0",
+  "description": "AI-powered Ubuntu TCP optimization script generator",
+  "main": "index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "@google/genai": "^1.30.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "lucide-react": "^0.554.0"
+  }
+}
